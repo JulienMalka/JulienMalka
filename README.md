@@ -1,6 +1,7 @@
 ### Bonjour 👋
 
 I am a security researcher and a FOSS developer.
+The majority of my contributions lie in the Nix/NixOS ecosystem.
 
 [☕ Buy me a coffee!](https://github.com/sponsors/JulienMalka/)
 
